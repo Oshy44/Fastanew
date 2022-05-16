@@ -1,0 +1,93 @@
+ID   X81322; SV 1; linear; genomic DNA; STD; PRO; 1499 BP.
+XX
+AC   X81322;
+XX
+DT   15-SEP-1994 (Rel. 41, Created)
+DT   18-APR-2005 (Rel. 83, Last updated, Version 4)
+XX
+DE   E.coli hpcC gene
+XX
+KW   5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase; hpcC gene.
+XX
+OS   Escherichia coli
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+OC   Enterobacteriaceae; Escherichia.
+XX
+RN   [1]
+RX   DOI; 10.1016/0378-1119(95)00082-H.
+RX   PUBMED; 7737515.
+RA   Roper D.I., Stringfellow J.M., Cooper R.A.;
+RT   "Sequence of the hpcC and hpcG genes of the meta-fission homoprotocatechuic
+RT   acid pathway of Escherichia coli C: nearly 40% amino-acid identity with the
+RT   analogous enzymes of the catechol pathway";
+RL   Gene 156(1):47-51(1995).
+XX
+RN   [2]
+RP   1-1499
+RA   Roper D.;
+RT   ;
+RL   Submitted (03-SEP-1994) to the INSDC.
+RL   D. Roper, Protein Structure Research Group, The Dept of Chemistry, The
+RL   University of York, Heslington, York Y01 5DD, UK
+XX
+DR   MD5; ff367c259d405558292d651deac8730f.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1499
+FT                   /organism="Escherichia coli"
+FT                   /strain="C"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:562"
+FT   CDS             58..1464
+FT                   /transl_table=11
+FT                   /gene="hpcC"
+FT                   /product="5-carboxymethyl-2-hydroxymuconate semialdehyde
+FT                   dehydrogenase"
+FT                   /db_xref="GOA:P42269"
+FT                   /db_xref="InterPro:IPR011985"
+FT                   /db_xref="InterPro:IPR015590"
+FT                   /db_xref="InterPro:IPR016160"
+FT                   /db_xref="InterPro:IPR016161"
+FT                   /db_xref="InterPro:IPR016162"
+FT                   /db_xref="InterPro:IPR016163"
+FT                   /db_xref="InterPro:IPR029510"
+FT                   /db_xref="UniProtKB/Swiss-Prot:P42269"
+FT                   /protein_id="CAA57102.1"
+FT                   /translation="MKKVNHWINGKNVAGNDYFLTTNPATGEVLADVASGGEAEINQAV
+FT                   ATAKEAFPKWANLPMKERARLMRRLGDLIDQNVPEIAAMETADTGLPIHQTKNVLIPRA
+FT                   SHNFEFFAEVCQQMNGKTYPVDDKMLNYTLVQPVGVCALVSPWNVPFMTATWKVAPCLA
+FT                   LGITAVLKMSELSPLTADRLGELALEAGIPAGVLNVVQGYGATAGDALVRHHDVRAVSF
+FT                   TGGTATGRNIMKNAGLKKYSMELGGKSPVLIFEDADIERALDAALFTIFSINGERCTAG
+FT                   SRIFIQQSIYPEFVKFAERANRVRVGDPTDPNTQVGALISQQHWEKVSGYIRLGIEEGA
+FT                   TLLAGGPDKPSDLPAHLKGGNFLRPTVLADVDNRMRVAQEEIFGPVACLLPFKDEAEAL
+FT                   RLANDVEYGLASYIWTQDVSKVLRLARGIEAGMVFVNTQFVRDLRHAFGGVKPRTGREG
+FT                   GGYSSKCSRK"
+XX
+SQ   Sequence 1499 BP; 334 A; 415 C; 464 G; 286 T; 0 other;
+     gaagtagaag gcgtgggccg cctggtgaac cgaattgttg agtgaggaaa cagcgaaatg        60
+     aaaaaagtaa atcattggat caacggcaaa aatgttgcag gtaacgacta cttcctgacc       120
+     accaatccgg caacgggtga agtgctggcg gatgtggcct ctggcggtga agcggagatc       180
+     aatcaggcgg tagcgacagc gaaagaggcg ttcccgaaat gggccaatct gccgatgaaa       240
+     gagcgtgcgc gcctgatgcg ccgtctgggc gatctgatcg accagaacgt gccagagatc       300
+     gccgcgatgg aaaccgcgga cacgggcctg ccgatccatc agaccaaaaa tgtgttgatc       360
+     ccacgcgctt ctcacaactt tgaatttttc gcggaagtct gccagcagat gaacggcaag       420
+     acttatccgg tcgacgacaa gatgctcaac tacacgctgg tgcagccggt aggcgtttgt       480
+     gcactggtgt caccgtggaa cgtgccgttt atgaccgcca cctggaaggt cgcgccgtgt       540
+     ctggcgctgg gcattaccgc ggtgctgaag atgtccgaac tctccccgct gaccgctgac       600
+     cgcctgggtg agctggcgct ggaagccggt attccggcgg gcgttctgaa cgtggtacag       660
+     ggctacggcg caaccgcagg cgatgcgctg gtccgtcatc atgacgtgcg tgccgtgtcg       720
+     ttcaccggcg gtacggcgac cgggcgcaat atcatgaaaa acgccgggct gaaaaaatac       780
+     tccatggaac tgggcggtaa atcgccggtg ctgatttttg aagatgccga tattgagcgc       840
+     gcgctggacg ccgccctgtt caccatcttc tcgatcaacg gcgagcgctg caccgccggt       900
+     tcgcgcatct ttattcaaca aagcatctac ccggaattcg tgaaatttgc cgaacgcgcc       960
+     aaccgtgtgc gcgtgggcga tccgaccgat ccgaataccc aggttggggc gcttatcagc      1020
+     cagcaacact gggaaaaagt ctccggctat atccgtctgg gcattgaaga aggcgccacc      1080
+     ctgctggcgg gcggcccgga taaaccgtct gacctgcctg cacacctgaa aggcggcaac      1140
+     ttcctgcgcc caacggtgct ggcggacgta gataaccgta tgcgcgttgc ccaggaagag      1200
+     attttcgggc cggtcgcctg cctgctgccg tttaaagacg aagccgaagc gttacgcctg      1260
+     gcaaacgacg tggagtatgg cctcgcgtcg tacatctgga cacaggatgt cagcaaagtg      1320
+     ctgcgtctgg cgcgcggcat tgaagcaggc atggtgttcg tcaacaccca gttcgtgcgt      1380
+     gacctgcgcc acgcatttgg cggcgtaaaa cctcgcaccg ggcgtgaagg cggtggatac      1440
+     agttcgaagt gttcgcggaa atgaagaaga acgtctgcat tccatggcgg accatccca       1499
+//
